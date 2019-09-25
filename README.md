@@ -33,3 +33,34 @@ git push -u origin master
 ## Levers for making the site responsive and accessible.
 
 The last time I built Gogs on my system I included a `selab.css` and `selab.js` file for you to make your changes in. Once you have made your initial push to github you can also edit the `index.html` file.
+
+I included a dark theme from [https://github.com/Kos-M/GogsThemes](https://github.com/Kos-M/GogsThemes). You can get it into your project with:
+
+```
+/* put your css changes here */
+
+@import url("dark_theme.css");
+
+```
+
+## The axe accessibility tool
+
+You will want to use a tool to check the accessibility of your changes. I used [axe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd). Add it to your browser by following the preceding link. 
+
+Axe won't work on a file:// link. You will also need a vscode plugin to serve your content on [http://localhost:8080/index.html](http://localhost:8080/index.html). The one that I used is by YuichiNukiyama. 
+![Preview on Web Server](https://rhildred.github.io/responsivegogs/READMEImages/vscodeExtension.png)
+
+If you right mouse click on your .html file choose `Launch On Browser` to see your code in chrome. 
+
+![Launch on Browser](https://rhildred.github.io/responsivegogs/READMEImages/LaunchOnBrowser.png)
+
+In chrome right click and do `inspect` to bring up the developer's tools. In the developer's tools click on `axe`.
+
+![Developer tools Axe](https://rhildred.github.io/responsivegogs/READMEImages/GoIntoAxe.png)
+
+Finally you can run `Analyze` to see the accessibility problems.
+
+![Analyze](https://rhildred.github.io/responsivegogs/READMEImages/Analyze.png)
+
+I find Gogs perfect for my product development and consulting needs. Hopefully you will be able to refresh the look of it by making it accessible and responsive.
+
