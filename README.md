@@ -29,3 +29,7 @@ git push -u origin master
 ![save as webpage complete](https://rhildred.github.io/responsivegogs/READMEImages/githubpages.PNG)
 9. Follow the link that comes up to your site. Note that it might take some time for it to be active.
 ![save as webpage complete](https://rhildred.github.io/responsivegogs/READMEImages/link.PNG)
+
+## Levers for making the site responsive and accessible.
+
+The last time I built Gogs on my system I included a `selab.css` and `selab.js` file for you to make your changes in. Once you have made your initial push to github you can also edit the `index.html` file.
