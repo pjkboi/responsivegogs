@@ -248,7 +248,7 @@ footer {
 }
 
 .mega-octicon.octicon-repo {
-  color: steelblue !important;
+  color: white !important;
 }
 
 #repo-clone-url {
@@ -330,7 +330,7 @@ footer {
 }
 
 .feeds .list ul li a .octicon {
-  color: steelblue;
+  color: white;
 }
 
 .explore {
@@ -389,7 +389,7 @@ footer {
 .repository.file.list #file-content .code-view .lines-num .hljs,
 .repository.file.list #file-content .code-view .lines-code .hljs {
   background-color: #080705 !important;
-  color: #9ebdb1;
+  color: white;
   margin: 0;
   padding: 0 !important;
   border: 0 !important;
@@ -408,7 +408,7 @@ footer {
 
 .CodeMirror-code {
   background-color: #080705 !important;
-  color: #9ebdb1 !important;
+  color: white !important;
 }
 
 .CodeMirror-gutters {
@@ -419,7 +419,7 @@ footer {
 .CodeMirror {
   /* file edditor */
   background: #080705;
-  color: #9ebdb1 !important;
+  color: white !important;
 }
 
 #repo-desc {
@@ -510,7 +510,7 @@ tr:hover a {
 
 /* File Editor */
 .editor-toolbar a {
-  color: #193c9b !important;
+  color: white !important;
 }
 
 .editor-toolbar a.active,
@@ -533,7 +533,7 @@ tr:hover a {
 /*#########################           Syntax Higlight Theme #####################*/
 .hljs-comment,
 .hljs-quote {
-  color: #a2a2a26e !important;
+  color: white !important;
   font-weight: 400;
 }
 
@@ -571,12 +571,12 @@ tr:hover a {
 
 /* Editor Highlight Theme */
 .cm-s-default .cm-comment {
-  color: #a2a2a26e !important;
+  color: white !important;
   font-weight: 400;
 }
 
 .cm-s-default .cm-def {
-  color: #9ebdb1;
+  color: white;
 }
 
 .cm-s-default .cm-builtin {
@@ -737,7 +737,7 @@ tr:hover a {
 }
 
 .ui.vertical.menu .active.item {
-  background: #193c9b;
+  background: white;
 }
 
 .ui.menu .active.item {
