@@ -433,7 +433,7 @@ footer {
 }
 
 #repo-clone-https {
-  color: white;
+  color: white !important;
 }
 
 #danger_zone_edited {
