@@ -51,7 +51,7 @@ code.raw {
 }
 
 .following.bar {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .overflow.menu .items .item {
@@ -59,7 +59,7 @@ code.raw {
 }
 
 .following.bar .top.menu a.item.brand {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .following.bar .top.menu a.item:hover,
@@ -73,11 +73,11 @@ code.raw {
 }
 
 .following.bar .top.menu .menu {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .following.bar .head.link.item {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .home {
@@ -112,9 +112,9 @@ footer {
 
 .markdown:not(code) table th,
 .markdown:not(code) table td {
-  border: 0px solid #197474 !important;
+  border: 0px solid white !important;
   background-color: #080705;
-  color: #197474;
+  color: white;
 }
 
 .markdown:not(code) span.frame > span {
@@ -137,12 +137,12 @@ footer {
 
 .ui.attached.header {
   background: #1c1c1c !important;
-  color: #197474 !important;
+  color: white !important;
   border: none !important;
 }
 
 .repository .header-wrapper {
-  color: #197474 !important;
+  color: white !important;
   background-color: transparent;
   padding-top: 80px;
 }
@@ -244,7 +244,7 @@ footer {
 }
 
 .repository .head .mega-octicon {
-  color: #197474;
+  color: white;
 }
 
 .mega-octicon.octicon-repo {
@@ -252,7 +252,7 @@ footer {
 }
 
 #repo-clone-url {
-  color: #197474 !important;
+  color: white !important;
 }
 
 #repo-clone-url::-moz-selection {
@@ -354,11 +354,11 @@ footer {
 }
 
 .ui.header .sub.header {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .ui.header {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .ui.form .inline.field > label,
@@ -371,7 +371,7 @@ footer {
 
 .secondary {
   background-color: transparent !important;
-  color: #197474 !important;
+  color: white !important;
 }
 
 .secondary .item {
@@ -413,7 +413,7 @@ footer {
 
 .CodeMirror-gutters {
   background-color: #080705;
-  color: #197474;
+  color: white;
 }
 
 .CodeMirror {
@@ -451,7 +451,7 @@ footer {
 }
 
 #danger_zone_edited_header {
-  background: #197474 !important;
+  background: white !important;
 }
 
 #commits-table-head tr th {
@@ -505,7 +505,7 @@ tr:hover a {
 }
 
 .repository .diff-file-box .header {
-  background-color: #197474;
+  background-color: white;
 }
 
 /* File Editor */
