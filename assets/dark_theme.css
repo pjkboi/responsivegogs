@@ -33,7 +33,7 @@ h5,
 .ui.menu,
 .ui.input input,
 .ui.button:not(.label) {
-  color: #197474;
+  color: white;
 }
 
 #file-content h1,
