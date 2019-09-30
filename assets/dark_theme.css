@@ -4,13 +4,13 @@ body:not(.full-width) {
   background-image: url("/img/grad1.png");
   background-size: contain;
   background-attachment: fixed;
-  color: bisque;
+  color: white;
 }
 
 .following.bar.light {
   background-color: #1c1c1c !important;
   border-bottom: 1px solid #080705;
-  color: bisque !important;
+  color: white !important;
   position: fixed;
   top: 0;
 }
@@ -41,7 +41,7 @@ h5,
 #file-content h3,
 #file-content h4,
 #file-content h5 {
-  color: silver;
+  color: white;
 }
 
 pre.raw,
@@ -55,7 +55,7 @@ code.raw {
 }
 
 .overflow.menu .items .item {
-  color: silver;
+  color: white;
 }
 
 .following.bar .top.menu a.item.brand {
@@ -97,13 +97,13 @@ code.raw {
 }
 
 footer {
-  color: silver !important;
+  color: white !important;
   background-color: #080705;
 }
 
 .markdown:not(code) {
   background-color: #1c1c1c;
-  color: silver;
+  color: white;
 }
 
 .markdown:not(code) blockquote {
@@ -123,7 +123,7 @@ footer {
 
 .markdown:not(code) pre code,
 .markdown:not(code) pre tt {
-  color: silver;
+  color: white;
 }
 
 .markdown:not(code) .highlight pre,
@@ -287,7 +287,7 @@ footer {
 
 .ui.vertical.menu .header.item {
   background: #1c1c1c;
-  color: silver;
+  color: white;
   text-align: center;
   padding-left: 0;
 }
@@ -313,7 +313,7 @@ footer {
 
 .ui.card {
   background-color: transparent !important;
-  color: silver !important;
+  color: white !important;
   border: 0 !important;
 }
 
@@ -338,11 +338,11 @@ footer {
 }
 
 .ui.repository.list .item .ui.header {
-  color: silver;
+  color: white;
 }
 
 .ui.repository.list .item .ui.header .name {
-  color: silver;
+  color: white;
 }
 
 .ui.repository.list .item .ui.header .name:hover {
@@ -366,7 +366,7 @@ footer {
 .ui.form .inline.fields .field > label,
 .ui.form .inline.fields .field > p,
 .ui.form .inline.fields > label {
-  color: silver;
+  color: white;
 }
 
 .secondary {
@@ -375,11 +375,11 @@ footer {
 }
 
 .secondary .item {
-  color: silver !important;
+  color: white !important;
 }
 
 .secondary .item:hover {
-  color: silver;
+  color: white;
 }
 
 .repository.file.list #file-content .code-view .lines-num pre,
@@ -401,7 +401,7 @@ footer {
 }
 
 #ActionButtons {
-  color: silver !important;
+  color: white !important;
   background-color: inherit !important;
   border: 0.5px solid #080705;
 }
@@ -425,15 +425,15 @@ footer {
 #repo-desc {
   text-align: center;
   font-weight: 500;
-  color: silver;
+  color: white;
 }
 
 #repo-clone-ssh {
-  color: silver;
+  color: white;
 }
 
 #repo-clone-https {
-  color: silver;
+  color: white;
 }
 
 #danger_zone_edited {
@@ -455,12 +455,12 @@ footer {
 }
 
 #commits-table-head tr th {
-  color: silver !important;
+  color: white !important;
 }
 
 .ui.table thead th {
   background: #1c1c1c;
-  color: silver;
+  color: white;
 }
 
 .ui.table thead tr:hover th {
@@ -516,7 +516,7 @@ tr:hover a {
 .editor-toolbar a.active,
 .editor-toolbar a:hover {
   background: #c8c183;
-  color: silver;
+  color: white;
   border-color: #c8c183;
 }
 
@@ -599,7 +599,7 @@ tr:hover a {
 }
 
 .ui.menu .ui.dropdown .menu > .item {
-  color: #197474 !important;
+  color: white !important;
   background-color: #1c1c1c !important;
 }
 
@@ -624,62 +624,62 @@ tr:hover a {
 }
 
 .ui.checkbox input:focus ~ label {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label:focus {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox label {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox label.focus {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label.focus {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox label:hover {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label:hover {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox label,
 .ui.checkbox + label {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox label:hover,
 .ui.checkbox + label:hover {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label,
 .ui.checkbox.checked + label {
-  color: silver;
+  color: white;
 }
 
 .ui.checkbox.checked label:hover,
 .ui.checkbox.cheked + label:hover {
-  color: silver;
+  color: white;
 }
 
 .ui.link.menu .item,
 .ui.menu .dropdown.item,
 .ui.menu .link.item,
 .ui.menu a.item {
-  color: silver;
+  color: white;
 }
 
 .ui.link.menu .item:hover,
@@ -694,33 +694,33 @@ tr:hover a {
 }
 
 .ui .dropdown .menu a:hover {
-  color: #197474 !important;
+  color: white !important;
 }
 
 .ui.basic.button,
 .ui.basic.buttons .button {
-  background: #197474 !important;
-  color: silver;
+  background: white !important;
+  color: white;
 }
 
 .ui.vertical.menu {
   background: #1c1c1c;
-  color: #197474;
+  color: white;
 }
 
 .ui.dropdown .menu .selected.item,
 .ui.dropdown.selected {
   background: #1c1c1c;
-  color: silver;
+  color: white;
 }
 
 .ui.vertical.menu .item {
-  color: silver;
+  color: white;
 }
 
 .ui.menu .item {
   font-weight: 600;
-  color: silver;
+  color: white;
 }
 
 .ui.menu .item .active {
@@ -733,7 +733,7 @@ tr:hover a {
 
 .ui.menu .item:hover,
 .ui.vertical.menu .item:hover {
-  color: silver;
+  color: white;
 }
 
 .ui.vertical.menu .active.item {
@@ -750,17 +750,17 @@ tr:hover a {
 }
 
 .ui.dropdown .menu > .item {
-  color: silver;
+  color: white;
 }
 
 .ui.menu.three.item .item {
   background-color: #1c1c1c;
-  color: steelblue;
+  color: white;
 }
 
 .ui.card > .extra a:not(.ui),
 .ui.cards > .card > .extra a:not(.ui) {
-  color: silver;
+  color: white;
 }
 
 .ui.table {
@@ -769,12 +769,12 @@ tr:hover a {
   background-size: contain;
   background-attachment: fixed;
   background-blend-mode: color-burn;
-  color: silver;
+  color: white;
 }
 
 .ui.button {
   background: #122940 !important;
-  color: silver !important;
+  color: white !important;
 }
 
 .ui.button:hover {
@@ -782,7 +782,7 @@ tr:hover a {
 }
 
 .ui.dropdown .menu > .header {
-  color: silver;
+  color: white;
 }
 
 .ui.menu .ui.dropdown .menu > .item:hover {
@@ -796,7 +796,7 @@ tr:hover a {
 
 .ui.dropdown .menu > .input:not(.transparent) input {
   background-color: #080705;
-  color: bisque;
+  color: white;
 }
 
 .ui.form input:not([type]),
@@ -812,7 +812,7 @@ tr:hover a {
 .ui.form input[type=time],
 .ui.form input[type=url] {
   background: #080705;
-  color: silver;
+  color: white;
   font-weight: 600;
 }
 
@@ -828,7 +828,7 @@ tr:hover a {
 .ui.form input[type=text]:focus,
 .ui.form input[type=time]:focus,
 .ui.form input[type=url]:focus {
-  color: silver;
+  color: white;
   border-color: transparent;
   border-radius: 0;
   background: #080705;
@@ -841,7 +841,7 @@ tr:hover a {
 }
 
 .ui.form .field > label {
-  color: silver;
+  color: white;
 }
 
 .ui.attached.header {
@@ -849,7 +849,7 @@ tr:hover a {
 }
 
 .ui .text.black:hover {
-  color: bisque;
+  color: white;
 }
 
 .ui.tabular.menu .active.item {
@@ -861,7 +861,7 @@ tr:hover a {
 .ui.basic.button,
 .ui.basic.buttons .button {
   background: #1c1c1c none !important;
-  color: silver !important;
+  color: white !important;
   font-weight: 600;
   -webkit-box-shadow: 0 0 8px 0px #c8c183;
   box-shadow: 0 0 8px 0px #c8c183;
@@ -881,25 +881,25 @@ tr:hover a {
 }
 
 .ui.basic.label {
-  background: none #197474;
+  background: none white;
 }
 
 .ui.breadcrumb a {
-  color: silver;
+  color: white;
 }
 
 .ui.list .list > .item .description,
 .ui.list > .item .description {
-  color: silver;
+  color: white;
 }
 
 .ui.user.list .item .description a {
-  color: silver;
+  color: white;
 }
 
 .ui.user.list .item .description a:hover {
   text-decoration: underline;
-  color: #197474;
+  color: white;
 }
 
 .ui.buttons:not(.basic):not(.inverted) > .button,
@@ -923,7 +923,7 @@ tr:hover a {
 }
 
 a {
-  color: silver;
+  color: white;
 }
 
 a:hover {
