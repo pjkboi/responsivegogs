@@ -174,7 +174,7 @@ code.wrap {
   color: #000;
 }
 .ui .text.grey {
-  color: #767676 !important;
+  color: white !important;
 }
 .ui .text.grey a {
   color: #444 !important;
@@ -1369,7 +1369,7 @@ footer .ui.language .menu {
   padding: 5px;
   margin-left: 5px;
   line-height: 1;
-  color: #767676;
+  color: white;
   vertical-align: middle;
   background: transparent;
   border: 0;
@@ -1756,7 +1756,7 @@ footer .ui.language .menu {
   width: 3em;
 }
 .repository.view.issue .comment-list .comment .tag {
-  color: #767676;
+  color: white;
   margin-top: 3px;
   padding: 2px 5px;
   font-size: 12px;
@@ -1780,7 +1780,7 @@ footer .ui.language .menu {
   font-weight: normal;
   padding: auto 15px;
   position: relative;
-  color: #767676;
+  color: white;
   background-color: #f7f7f7;
   border-bottom: 1px solid #eee;
   border-top-left-radius: 3px;
@@ -1816,7 +1816,7 @@ footer .ui.language .menu {
   font-size: 14px;
 }
 .repository.view.issue .comment-list .comment .content .no-content {
-  color: #767676;
+  color: white;
   font-style: italic;
 }
 .repository.view.issue .comment-list .comment .content > .bottom.segment {
@@ -2565,7 +2565,7 @@ footer .ui.language .menu {
   padding-top: 5px;
 }
 .settings .key.list .print {
-  color: #767676;
+  color: white;
 }
 .settings .key.list .activity {
   color: #666;
